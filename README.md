@@ -11,7 +11,7 @@ Proposal
 
 # Project proposal 
 
-My proposal is to create a websiste that allows you to review books, which includes users signing in for users to enter the book name and review. 
+My proposal is to create a websiste that allows you to review books, which includes users signing in for users to enter any book and write a review. 
 
 Create 
 
