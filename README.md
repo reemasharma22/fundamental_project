@@ -57,7 +57,7 @@ https://trello.com/b/gAWE6j2l/stationary-website
 
 # Risk assessment 
 
-The full risk assessment can be found [here] (https://docs.google.com/spreadsheets/d/1LR_VZsmfVByZFJA3BPvN0WsaQbGsw9JgBUsQIkRJd3s/edit?usp=sharing)
+The full risk assessment can be found [here](https://docs.google.com/spreadsheets/d/1LR_VZsmfVByZFJA3BPvN0WsaQbGsw9JgBUsQIkRJd3s/edit?usp=sharing)
 
 
 					
