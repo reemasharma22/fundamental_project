@@ -1,0 +1,16 @@
+{% extends 'layout.html' %}
+{% block body %}
+<h1>Update book review</h1>
+<div class = 'form'>
+    <form method = 'POST' action=''>
+        {{form.book_name.label}} {{form.book_name}}
+        <br><br>
+        {{form.author_name.label}} {{form.author_name}}
+        <br><br>
+        {{form.book_review.label}} {{form.book_review}}
+        <br><br>
+        {{form.submit}}
+        {{ message }}
+    </form>
+</div>
+{% endblock body %}
