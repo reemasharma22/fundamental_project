@@ -2,6 +2,8 @@
 
 # Project Status 
 
+Unfortunately this project is still ongoing. I encountered some setbacks with getting the front end of the wesbite to do some of the CRUD functions. 
+
 # Objective 
 
 ⦁	To create a CRUD application with utilisation of supporting tools, methodologies and technologies that encapsulate all core modules covered during training.
@@ -50,9 +52,7 @@ server and deployed to a cloud-based virtual machine
 
 # Trello 
 
-The Trello board allowed me to track the project. You can find the full board here:
-
-https://trello.com/b/gAWE6j2l/stationary-website
+The Trello board allowed me to track the project. You can find the full board [here](https://trello.com/b/gAWE6j2l/stationary-website)
 
 
 # Risk assessment 
